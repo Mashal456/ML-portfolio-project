@@ -57,3 +57,7 @@ demo = gr.Interface(
 )
 
 demo.launch(share=True)
+
+Deployment on hugging face: https://huggingface.co/spaces/Mashal456/ML-project_deployment
+
+
